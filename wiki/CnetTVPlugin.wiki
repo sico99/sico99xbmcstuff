@@ -1,0 +1,17 @@
+#summary Explanation of the CNET Plugin
+
+= Introduction =
+
+The CNET TV Plugin was the first I made and allows a basic interaction with the CNET site. I started with just the complete list of videos available but it now includes most of the shows one the site.
+
+
+= Features =
+
+1.1 
+* Added Catagories and shows as lists in their own right
+* All shows also have a date to identify which is which when sorting by name
+* Added the Today on CNET playlist, seems to be working intermittently and not a playlist
+* Now has settings to choose the default bit rate so can always be in HD if you can play it 
+
+1.0 
+* All CNET TV Videos available in list
