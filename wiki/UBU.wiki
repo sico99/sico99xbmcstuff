@@ -1,0 +1,11 @@
+#summary Plugin for UBU.com
+
+= Introduction =
+
+From a request on the XBMC forums
+
+= Features =
+
+1.0
+  * Lists all the artists with videos
+  * For each artist views their page and lists any videos they have there
