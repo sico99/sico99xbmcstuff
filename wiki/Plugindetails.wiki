@@ -1,0 +1,7 @@
+#summary An explanation of what the plugins I make are and revisions, changes, etc.
+
+= Introduction =
+
+As I hopefully keep updating these plugins I want to give a page to add details of the differences in versions, as well as what each plugin allows you to do. 
+
+
