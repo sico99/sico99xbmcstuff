@@ -1,11 +1,11 @@
-# Funny or Die Plugin
+=Funny or Die Plugin=
 
-= Introduction =
+==Introduction==
 
 Funny or Die is a site hosting short sketches + clips from top comedians like Will Ferrell 
 
 
-= Details =
+==Versions==
 
 *Version 1.1*
 
