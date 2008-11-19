@@ -1,4 +1,4 @@
-=Funny or Die Plugin=
+#summary Plugin for funnyordie.com
 
 ==Introduction==
 
